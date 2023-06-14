@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rikss2
-- 👀 I’m interested in Computing Science
-- 🌱 I’m currently learning Coumputer Science BSc. 
-- 💞️ I’m looking to collaborate in the realm of Latin squares
+- 👀 I’m interested in Customer Identity
+- 🌱 I’m currently a Junior Software Engineer. 
+- 💞️ I’m looking to collaborate on educational examples
 - 📫 How to reach me kristofkiss@mailbox.unideb.hu
 
 <!---
